@@ -1,0 +1,49 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #0b0f19;
+    color: #f2f5f9;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+.topo {
+    background-color: #111827;
+    padding: 25px;
+    text-align: center;
+    border-bottom: 2px solid #32086e;
+}
+.banner {
+    background: linear-gradient(135deg, #111827, #172554);
+    text-align: center;
+    padding: 70px 20px;
+}
+
+.banner h1 {
+    color: #220b7c;
+    font-size: 40px;
+    margin: 15px;
+}
+
+
+
+.produtos,
+.sobre,
+.tecnologia,
+.contato {
+    padding: 40px 8%;
+}
+
+.titulo-secao,
+.tecnologia,
+.contato {
+    text-align: center;
+}
+
+h2 {
+    color: #00f5
+    
+}
+h1,h2,h3,p {text-align: center;}
